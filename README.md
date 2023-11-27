@@ -8,4 +8,8 @@ Oracle platform is analysing a chart in the past plus CH evaluation. Then it tri
 
 Oracle is <ins>not a finished product</ins>, rather it is some sample for future work. Forecasting algorithms here may be significantly improved later. Furthermore, Oracle may be a part of a more sophisticated analytical platform.
 
+**Current version:** <ins>Oracle 1.0.0.</ins> Oracle has it's own version number since 27.11.2023.
+
+**Updates:** coming soon...
+
 **Disclaimer:** Oracle analysis is not a personal investment advice. You should manage your risks carefully, the author and developers are not responsible for your losses!
